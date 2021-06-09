@@ -5,4 +5,4 @@ Used React, Node.js, and Postgresql in order to create the project and deployed 
 
 ![Alt text](screenshots/home.png?raw=true "Example of User signed in")
 ![Alt text](screenshots/register.png?raw=true "Signin")
-![Alt text](screenshots/signin.jpg?raw=true "Register")
+![Alt text](screenshots/signin.png?raw=true "Register")
